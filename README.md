@@ -20,6 +20,7 @@ Objective:
 Create an embedded system to measure temperature and implement Analog to Digital Conversion.
 The component LM35 temperature sensor was used to measure the temperature.
 The temperature reading is displayed on two 7 Segment LED Display. 
+
 ![image](https://github.com/a-faria/PIC16/assets/122120022/784ea866-32b1-4f95-9a4f-7125a0b530f1)
 
 
