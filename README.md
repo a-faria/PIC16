@@ -7,7 +7,7 @@ Objective:
 
 
 Create an Interrupt-based embedded system to implement an event counter.
-This event counter is trigered by breaking the beam between LED and the photodiode. 
+This event counter is triggered by breaking the beam between LED and the photodiode. 
 In this case by swiping a Leap Card between them. The counter is displayed on two 7 Segment LED Display. 
 
 ![image](https://github.com/a-faria/PIC16/assets/122120022/c479c70a-6e12-4615-8828-b08e0302e19f)
